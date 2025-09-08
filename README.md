@@ -4,3 +4,7 @@ based on https://github.com/yo3hjv/VFD-Display-Clock and https://yo3hjv.blogspot
 ![real01](https://github.com/tehniq3/VFD_CD72220/blob/main/photos/RTC_clock_DHT22_real01.png)
 
 ![real02](https://github.com/tehniq3/VFD_CD72220/blob/main/photos/RTC_clock_DHT22_real02.png)
+
+![howtoconnect](https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/CD7220_VFD_connections.png)
+
+
