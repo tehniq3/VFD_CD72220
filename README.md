@@ -7,4 +7,10 @@ based on https://github.com/yo3hjv/VFD-Display-Clock and https://yo3hjv.blogspot
 
 ![howtoconnect](https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/CD7220_VFD_connections.png)
 
+![RTC_clock](https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/RTC_clock_schematic.png)
+
+![RTC_clock_DHT}(https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/RTC_clock_DHT_schematic.png)
+
+![RTC_adj_clock_DHT}(https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/RTC_adj_clock_DHT_schematic.png)
+
 
