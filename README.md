@@ -5,6 +5,7 @@ based on https://github.com/yo3hjv/VFD-Display-Clock and https://yo3hjv.blogspot
 
 ![real02](https://github.com/tehniq3/VFD_CD72220/blob/main/photos/RTC_clock_DHT22_real02.png)
 
+The VFD module was powered with +24V and GND (consumption near 0,13A).. Arduino board was powered from VFD module via +5V, GND and control the display via Rx (with D2 of Arduino). 
 ![howtoconnect](https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/CD7220_VFD_connections.png)
 
 ![RTC_clock](https://github.com/tehniq3/VFD_CD72220/blob/main/technical_info/RTC_clock_schematic.png)
